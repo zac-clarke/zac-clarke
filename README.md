@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zac-clarke
-- 👀 I’m interested in Databases, React and Spring boot
-- 🌱 I’m currently learning C# and MongoDB
+- 👀 I’m interested in Databases, React, Spring boot & .NET core
+- 🌱 I’m currently honing my React skills
 - 📫 How to reach me --> zacclarke@gmail.com
 
 <!---
